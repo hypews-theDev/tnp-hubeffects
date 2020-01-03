@@ -1,0 +1,8 @@
+name: TNPHubEffects
+version: 1.2.1
+main: me.hypews.tnp.tnphubeffects.TNPHubEffects
+authors: [hypews, GoldenFire2317, Ramen]
+description: The Nordic Project hub effects.
+commands:
+  effects:
+    description: Hub effects.
